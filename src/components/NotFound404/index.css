@@ -1,0 +1,20 @@
+.mainCtn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(33, 32, 50);
+    min-height: 100vh;
+  }
+
+  .imgCtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-color: white;
+  }
+
+  .imgCtn img {
+    max-width: 100%;
+    height: auto;
+  }
